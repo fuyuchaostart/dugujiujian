@@ -8,6 +8,7 @@ public class JIanFaServiceImp implements DuGuJiuJIangService {
 		System.out.println("剑开天门--李纯刚");
 		System.out.println("胡笳十八拍--薛宋官");
 		System.out.println("仙人扶大顶--徐凤年");
+		System.out.println("我有一剑可斩仙人-徐凤年");
 	}
 
 }
