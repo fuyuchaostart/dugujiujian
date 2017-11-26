@@ -1,8 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+<<<<<<< HEAD
     <wb-module deploy-name="dugujiujian_ybq">
         <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
         <wb-resource deploy-path="/" source-path="/WebContent" tag="defaultRootSource"/>
         <property name="context-root" value="dugujiujian_ybq"/>
         <property name="java-output-path" value="/dugujiujian_ybq/bin"/>
+=======
+    <wb-module deploy-name="dugujiujian">
+        <wb-resource deploy-path="/" source-path="/WebContent" tag="defaultRootSource"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
+        <property name="context-root" value="dugujiujian"/>
+        <property name="java-output-path" value="/dugujiujian/build/classes"/>
+>>>>>>> branch 'master' of https://github.com/fuyuchaostart/dugujiujian.git
     </wb-module>
 </project-modules>

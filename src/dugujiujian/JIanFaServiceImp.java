@@ -13,6 +13,7 @@ public class JIanFaServiceImp implements DuGuJiuJIangService {
 		System.out.println("官子无敌,曹青衣-曹风流");
 		System.out.println("千骑开蜀--褚八叉 ");
 		System.out.println("白衣洛阳--大秦皇后90");
+		System.out.println("褚禄山");
 	}
 
 }
