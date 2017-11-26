@@ -2,6 +2,6 @@ package dugujiujian;
 
 public class LiChunGang {
 	public static void main(String[] args) {
-		System.out.println("Á½ĞäÇàÉß--Àî´¿¸Õ");
+		System.out.println("ä¸¤è¢–é’è›‡--æçº¯åˆš");
 	}
 }
